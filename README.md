@@ -1,2 +1,2 @@
-# Reposit-rio2025
+# Repositório2025
 repositório da disciplina POO
